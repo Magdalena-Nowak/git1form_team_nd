@@ -16,3 +16,6 @@ password.addEventListener('keyup', ()=>{
         password.classList.remove("password-valid", "password-invalid");
     }
 })
+
+
+let newData;
